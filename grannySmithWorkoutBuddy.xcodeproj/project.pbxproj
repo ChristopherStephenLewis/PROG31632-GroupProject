@@ -69,6 +69,7 @@
 		0F5908CD27F3B790007E94D2 /* grannySmithWorkoutBuddy */ = {
 			isa = PBXGroup;
 			children = (
+				E6B32A4B27FDEF0700EAF99C /* Database */,
 				0F5908EA27F3BB8A007E94D2 /* Image */,
 				0F5908E927F3BB7A007E94D2 /* Storyboard */,
 				0F5908E827F3BB4E007E94D2 /* View Controllers */,
@@ -122,6 +123,13 @@
 				0F5908D727F3B796007E94D2 /* Assets.xcassets */,
 			);
 			path = Image;
+			sourceTree = "<group>";
+		};
+		E6B32A4B27FDEF0700EAF99C /* Database */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Database;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
